@@ -1,0 +1,24 @@
+{
+  "name": "express-js",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanzalashaik/express-Js.git"
+  },
+  "keywords": [],
+  "author": "Hanzala Shaikh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hanzalashaik/express-Js/issues"
+  },
+  "homepage": "https://github.com/Hanzalashaik/express-Js#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

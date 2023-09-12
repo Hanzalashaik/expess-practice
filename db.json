@@ -1,0 +1,138 @@
+[
+    {
+        "firstName": "Sakina",
+        "lastName": "Banu",
+        "password": "12345",
+        "confirmpassword": "12345",
+        "dob": "04/07/2001",
+        "email": "banusakina@04gmail.com",
+        "mobileNo": 7702674744,
+        "college": "Lords college of engg. & tech.",
+        "address": "401,samarat recidency, king koti",
+        "city": "Hyderabad",
+        "state": "Telengana",
+        "pincode": 500001,
+        "tasks": [
+            {
+                "id": "za3tl7m6fz",
+                "taskName": "",
+                "deadline": ""
+            },
+            {
+                "id": "34avl76d5e",
+                "taskName": "fdrbdb",
+                "deadline": "13/07/2023"
+            },
+            {
+                "id": "8jwv5qxreg",
+                "taskName": "operation",
+                "deadline": "09/09/2023"
+            }
+        ]
+    },
+    {
+        "firstName": "Husna",
+        "lastName": "mirza",
+        "password": "SSSSS",
+        "confirmpassword": "SSSSS",
+        "dob": "30/03/2003",
+        "email": "sofi@sssgmail.com",
+        "mobileNo": 9876543210,
+        "college": "Pride college",
+        "address": "23/3/456, Amberpet",
+        "city": "Hyderbad",
+        "state": "Telangana",
+        "pincode": 500035,
+        "tasks": [
+            {
+                "id": "h4edhyfixu",
+                "taskName": "wake up",
+                "deadline": "23/02/2009"
+            }
+        ]
+    },
+    {
+        "firstName": "Zarina",
+        "lastName": "Fatima",
+        "password": "000000",
+        "confirmpassword": "000000",
+        "dob": "23/03/2003",
+        "email": "zarfat@gmail.com",
+        "mobileNo": 9330674561,
+        "college": "Pride college",
+        "address": "road no. 12, Banjara hills",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "pincode": 500012
+    },
+    {
+        "firstName": "Husna",
+        "lastName": "Banu",
+        "password": "09876",
+        "confirmpassword": "09876",
+        "dob": "19/03/2005",
+        "email": "banuhusna@gmail.com",
+        "mobileNo": 8121727023,
+        "college": "loyal college",
+        "address": "abids",
+        "city": "hyderabad",
+        "state": "telengana",
+        "pincode": 500012
+    },
+    {
+        "firstName": "danny",
+        "lastName": "john",
+        "password": "343434",
+        "confirmpassword": "343434",
+        "dob": "23/09/2002",
+        "email": "dannydam@gmail.com",
+        "mobileNo": 8454687901,
+        "college": "mirrior college",
+        "address": "street 23, Jublee hills",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "pincode": 500011
+    },
+    {
+        "firstName": "kiara",
+        "lastName": "sharma",
+        "password": "22222",
+        "confirmpassword": "22222",
+        "dob": "22/02/2000",
+        "email": "ki@gmail.com",
+        "mobileNo": 9866452222,
+        "college": "Vinita College",
+        "address": "2-9-02, kukatpally",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "pincode": 500022
+    },
+    {
+        "firstName": "Mohd",
+        "lastName": "Ali",
+        "password": "aaaaaa",
+        "confirmpassword": "aaaaaa",
+        "dob": "23/03/2003",
+        "email": "ds@ds.ds",
+        "mobileNo": 9887242233,
+        "college": "Shadan college",
+        "address": "101, shine residency, Ameerpet",
+        "city": "Hyderabad",
+        "state": "Telangana",
+        "pincode": 500024
+    },
+    {
+        "firstName": "sofiya",
+        "lastName": "fatima",
+        "password": "343434",
+        "confirmpassword": "343434",
+        "dob": "09/10/2001",
+        "email": "sofi@sssgmail.com",
+        "mobileNo": 8787234562,
+        "college": "pride college",
+        "address": "16-9-345/a,malakpet",
+        "city": "Hyderabad",
+        "state": "Telengana",
+        "pincode": 500023
+    }
+]

@@ -1,0 +1,14 @@
+Express is a popular web framework which is built on top of NodeJS
+Express provides flexibility while creating http servers, routing, middleware and error handling
+Express is widely used in all backend server for webapp'serverit can be also used for complex web app 
+
+backend -> 5000 port
+
+
+/* 
+HTTP METHODS: 
+GET is used to request data from a specified resource.
+POST is used to send data to a server to create/update a resource.
+PUT is used to send data to a server to create/update a resource.
+The DELETE method deletes the specified resource.
+ */
