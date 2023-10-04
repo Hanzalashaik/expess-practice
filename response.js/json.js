@@ -1,6 +1,6 @@
 import express from 'express';
 
-const PORT = 5500;
+const PORT = 5502;
 const app = express();
 
 app.get('/',(req,res)=>{
