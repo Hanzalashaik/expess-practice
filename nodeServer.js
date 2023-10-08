@@ -1,5 +1,5 @@
 import fs from "fs"
-import http from "http" //web protocol port no:80
+import http from "http" //web protocol port no:8080
 
 const PORT=80;
 
