@@ -9,7 +9,7 @@ app.use(express.json())//post put
 
     app.post("/post",(req,res)=>{
         // console.log(req.hostname);//show clinet ip 
-        console.log(req.method);
+        // console.log(req.method);
         console.log(req.body);
         
     })

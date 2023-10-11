@@ -5,6 +5,7 @@ let app=express();
 
 app.get("/hanzala",(req,res)=>{
     console.log(req.headers);
+    res.send(req.headers);
    
 })
 

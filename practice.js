@@ -13,6 +13,8 @@ app.get("/",(req,res)=>{
 
 app.post("/post",(req,res)=>{
     const {name}=req.body
+    console.log(name);
+    
 
     if(name){
         return res.status(200).json({ message: `Hello, ${name}!` });
@@ -23,7 +25,7 @@ app.post("/post",(req,res)=>{
     }
     
 })
-//.email bhi daal sakhte 
+//:email bhi daal sakhte 
 app.put("/update/:id",(req,res)=>{
     let id = req.params.id
     
